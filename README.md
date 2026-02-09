@@ -1,2 +1,3 @@
-# homebrew-tap
-Homebrew Tap
+# Homebrew Tap
+
+`brew tap JozefLipovsky/tap`
